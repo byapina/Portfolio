@@ -3,7 +3,7 @@
 int main()
 {
     int matricula, dia, hora;
-    char* dias[] = {"segunda feira", "terca feira", "quarta feira", "quinta feira", "sexta feira",};
+    char* dias[] = {"segunda feira", "terca feira", "quarta feira", "quinta feira", "sexta feira"};
     
     printf("Digite a matricula do funcionario (de 1 a 30) \n");
     scanf ("%d", &matricula);
