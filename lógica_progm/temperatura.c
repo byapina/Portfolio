@@ -1,4 +1,4 @@
-#include <iostream>
+#include <stdio.h>
      void recebeTemperatura ()
 {
     float temperatura [8];
@@ -17,3 +17,4 @@ int main()
 
     return 0;
 }
+
